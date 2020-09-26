@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="coursera.css">
+    <title>Me llamo Micaela</title>
+
+<style>
+    header li {
+    list-style: none;
+    }
+
+</style>
+</head>
+<body>
+    <h1 class="pink">Links</h1>
+    <header>
+    <ul>
+       <li><a href="/">Cookies</a></li> 
+       <li><a href="http://google.com" target="_blank">Google</a></li> 
+       <li><a href="http://facebook.com" target="_blank">Facebook</a></li> 
+
+    </ul>
+    </header>
+
+<h1 class="pink">Pipo te amo</h1>
+    <p>No me gusta este curso como el de Google</p>
+<div id=box>
+    <div id="content">estoy bien </div>
+</div>
+
+<section>
+    <div>ESTADO 1</div>
+    <div>ESTADO 2</div>
+    <div>ESTADO 3</div>
+    <div>ESTADO 4</div>
+    <div>ESTADO 5</div>
+    <div>ESTADO 6</div>
+    <div>ESTADO 7</div>
+    <div>ESTADO 8</div>
+    <div>ESTADO 9</div>
+    <div>ESTADO 10</div>
+    <div>ESTADO 11</div>
+</section>
+<div id="casa">estamos en casa</div>
+<p>arreglando todo</p>
+<h2>empezando</h2>
+<p>asi se hace</p>
+<p>seguir practicando mucho tiempo hasta ser muy bueno</p>
+
+</body>
+</html>
+
